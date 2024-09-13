@@ -41,3 +41,4 @@ This application allows developers to create, manage, and comment on blog posts.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
